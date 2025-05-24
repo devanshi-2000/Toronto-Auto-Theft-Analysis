@@ -1,4 +1,4 @@
-# 🚨 Capstone: Toronto Auto Theft Analysis Dashboard (2024)
+# 🚨 Toronto Auto Theft Analysis Dashboard
 
 This capstone project leverages Toronto Police open data to analyze rising auto theft trends in the city. The team used Power BI to uncover high-risk neighborhoods, time-based patterns, and premises-related vulnerabilities, helping to inform smarter public safety and resource allocation strategies.
 
@@ -42,7 +42,23 @@ Toronto has seen a significant rise in auto thefts. Traditional reporting doesn'
 
 ## 📷 Dashboard Snapshots
 
+### 
+![Overview]()
 
+### Neighborhood Analysis
+![Theft By Neighborhoods]()
+
+### Time-Based Trends
+![Theft By Premises Type]()
+
+### Time-Based Trends
+![Theft Trends By Time]()
 
 ## 📁 Project Structure
 
+auto-theft-capstone/
+│
+├── data/ # Raw and cleaned data from Toronto Police (Excel)
+├── powerbi/ # Power BI (.pbix) dashboard file
+├── SCREENSHOTS/ # Dashboard images for reference
+└── README.md # Project documentation

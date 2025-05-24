@@ -43,16 +43,16 @@ Toronto has seen a significant rise in auto thefts. Traditional reporting doesn'
 ## 📷 Dashboard Snapshots
 
 ### Overview
-![Overview](SCREENSHOTS/Dashboard%1.jpg)
+![Overview](SCREENSHOTS/Dashboard_Overview.jpg)
 
 ### Neighborhood Analysis
-![Theft By Neighborhoods](SCREENSHOTS/Dashboard%2.jpg)
+![Theft By Neighborhoods](SCREENSHOTS/Theft_By_Neighborhoods.jpg)
+
+### Premises Type Analysis
+![Theft By Premises Type](SCREENSHOTS/Theft_By_Premises_Type.jpg)
 
 ### Time-Based Trends
-![Theft By Premises Type](SCREENSHOTS/Dashboard%3.jpg)
-
-### Time-Based Trends
-![Theft Trends By Time](SCREENSHOTS/Dashboard%4.jpg)
+![Theft Trends By Time](SCREENSHOTS/Theft_Trends_By_Time.jpg)
 
 ## 📁 Project Structure
 ```

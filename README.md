@@ -55,10 +55,11 @@ Toronto has seen a significant rise in auto thefts. Traditional reporting doesn'
 ![Theft Trends By Time](SCREENSHOTS/Dashboard_4.jpg)
 
 ## 📁 Project Structure
-
+```
 auto-theft-capstone/
 │
 ├── data/ # Raw and cleaned data from Toronto Police (Excel)
 ├── powerbi/ # Power BI (.pbix) dashboard file
 ├── SCREENSHOTS/ # Dashboard images for reference
 └── README.md # Project documentation
+```

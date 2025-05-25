@@ -58,8 +58,26 @@ Toronto has seen a significant rise in auto thefts. Traditional reporting doesn'
 ```
 auto-theft-capstone/
 │
-├── data/ # Raw and cleaned data from Toronto Police (Excel)
+├── data/ # Raw and cleaned auto theft data from Toronto Police (Excel)
 ├── powerbi/ # Power BI (.pbix) dashboard file
-├── SCREENSHOTS/ # Dashboard images for reference
-└── README.md # Project documentation
+├── SCREENSHOTS/ # Dashboard screenshots for reference
+└── README.md # Project description
 ```
+
+---
+
+## 👥 Credits
+This project was completed as a **group capstone project** as part of the Business Insights & Analytics program at Humber College.  
+Team Members: **Megha Nanda**, **Arsha Shaji Payyanayil**, **Lijo Johnson**, **Vasudha Chaubey** and **Myself**
+
+---
+
+## ⚠️ Usage Notice
+This project is for **educational and portfolio purposes only**.  
+Please do not reuse or distribute without permission.
+
+---
+
+## 📫 Let's Connect
+I'm Devanshi Sharma — a data enthusiast passionate about transforming raw data into powerful insights.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sharmadevanshi2000)
